@@ -1,1 +1,1 @@
-This is my 2nd git repository file
+This is my SECOND git repository file
